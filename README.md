@@ -19,5 +19,9 @@ Heap implemented in C++ as part of CSE 204
 # CSE_204_Graph
 Graph implemented in C++ as part of CSE 204
 
+# CSE_204_DnC
+Divide and Conquer Algorithm demonstrated for quick sort in C++ as part of CSE 204
+
 # CSE_204_Greedy
 Greedy algorithm demonstrated for Huffman Coding and Coins problem in C++ as part of CSE 204
+
