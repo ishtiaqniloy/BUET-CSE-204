@@ -1,2 +1,3 @@
 # CSE_204_Postfix
-LinkedList implemented in C++ as part of CSE 204
+Postfix operations implemented in C++ as part of CSE 204
+
