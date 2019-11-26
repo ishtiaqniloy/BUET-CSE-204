@@ -4,3 +4,6 @@ This Repository contains the offline and online assignments of CSE-204: Data Str
 # CSE_204_Postfix
 Postfix operations implemented in C++ as part of CSE 204
 
+# CSE_204_Arraylist
+Arraylist implemented in C++ as part of CSE 204
+
