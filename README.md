@@ -16,3 +16,5 @@ Heap implemented in C++ as part of CSE 204
 # CSE_204_Graph
 Graph implemented in C++ as part of CSE 204
 
+# CSE_204_BST
+Binary Search Tree implemented in C++ as part of CSE 204
